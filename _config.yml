@@ -9,13 +9,11 @@
 title: My Portfolio
 email: cormac.stopes@newbridge-college.ie
 description: > # this means to ignore newlines until "baseurl:"
-  Hello! I created this website for my Transition Year portfolio. 
-  As part of transition year, I learned coding in JavaScript, HTML and CSS! 
-  I hope you enjoy!
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://stopes-web-portfolio.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  cstopes
+url: "http://orgiesareslick.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username: tj-vs-ryan
 
 # Build settings
 markdown: kramdown
