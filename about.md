@@ -5,6 +5,6 @@ permalink: /meettheteam/
 ---
 <html>
 <body>
-  <p>Stopes\nmac\nGunk\nTJ\nRyan\nZach\nSeanie\nJiggins</p>
+  <ul><li>Stopes</li><li>mac</li><li>Gunk</li><li>TJ</li><li>Ryan</li><li>Zach</li><li>Seanie</li><li>Jiggins</li></ul>
 </body>
 </html>
