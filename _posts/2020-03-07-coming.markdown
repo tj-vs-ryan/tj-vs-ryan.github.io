@@ -1,8 +1,8 @@
 <html>
 <body>
-<h3>We're Coming 2020 Edition</h3>
+<h2>We're Coming 2020 Edition</h2>
   <p>Now on <a href="https://www.instagram.com/tj_vs_ryan/?hl=en">our insta</a>! Watch this space...</p>
-<h3>We're Coming</h3>
+<h2>We're Coming</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/375JqLhnmHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
