@@ -3,6 +3,6 @@
   <h3>An Insight into the Clongowes Coaching Staff Meeting</h3>
   <p>This is one of the best videos I've ever seen. Sent in from an anonymous source, it is by far the most likes we have ever gotten on a post. Our parents were showing us this video, unaware of where it had come from. It's ridiculous really.</p>
   <p>Most importantly though, Clongowes are fucked. enjoy this masterpiece.</p>
-<video src="/video-1583606595.mp4" type="video/mp4"></video>
+  <video><source src="/video-1583606595.mp4" type="video/mp4"></source></video>
 </body>
 </html>
