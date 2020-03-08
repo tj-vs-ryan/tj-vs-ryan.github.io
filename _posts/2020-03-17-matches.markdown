@@ -1,0 +1,23 @@
+<html>
+<body>
+  <h1>The Cup Run</h1>
+    <h2>Newbridge College SCT 45-7 CBC Monkstown</h2> 
+      <p>Obviously no footage of this one because Premier Sports were too busy showing Zaga vs Blackrock... neither of whom made it to the semis...</p>
+      <p>So here's some reviews, which were written by salty public school media. As such, they probably focus more on the fighting/mass terrorism/nuclear warhead tests that were going on in the past pupils section than the actual murder that took place in the second half.</p>
+      <li>
+        <ul><h3><a href="https://www.irishtimes.com/sport/rugby/newbridge-college-start-slow-before-blitzing-cbc-monkstown-1.4157847">Irish Times</a></h3></ul>
+        <ul><h3><a href="https://www.independent.ie/sport/rugby/schools-rugby/newbridge-sweep-aside-cbc-monkstown-to-advance-to-last-eight-as-st-michaels-are-paired-with-gonzaga-38914632.html">Independent</a></h3></ul>
+        <ul><h3><a href="https://www.leinsterrugby.ie/strong-second-half-sees-newbridge-college-through/">Leinster Rugby</a></h3></ul>
+        <ul><h3><a href="https://www.the42.ie/johne-murphy-guides-newbridge-college-into-quarter-finals-with-38-point-victory-4988098-Jan2020/">The 42</a></h3></ul>
+      </li>
+    <h2>Newbridge College SCT 10-8 Kilkenny College</h2>
+      <p>Well this was as fucking nervy one wasn't it? The lads were just lulling Michael's into a false sense of security.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/-H4hjUYQERM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h2>Newbridge College SCT 25-22 St. Michael's College &#127868;</h2>
+      <p>The day life peaked... until Paddy's Day.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/G4KJDf5hKLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h2>The All-Kildare Final: Newbridge vs Clongowes</h2>
+      <p>The one we've all been waiting for. The support for the team has been insane. The buzz around the school is electric. Three past pupils got gofundme pages going, to fly back from New Zealand and places liuke that just to watch this match. It's mad. Hala the BBE, let's get this done t'fuck.</p>
+      <p>Watch this space for previews of the match and, of course, pop over to <a href="https://www.instagram.com/tj_vs_ryan/?hl=en">@tj_vs_ryan</a>, <a href="https://www.instagram.com/leroysbois/?hl=en">@leroysbois</a>, <a href="https://www.instagram.com/realnbcmemes/?hl=en">@realnbcmemes</a>, and this website to get yourself in a right frenzy for this one.</p>
+</body>
+</html>
