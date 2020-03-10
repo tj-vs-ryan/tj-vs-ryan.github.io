@@ -1,3 +1,8 @@
+---
+layout: page
+title: Jiggins
+permalink: /meettheteam/jiggins
+---
 <html>
         <h1>Jiggins</h1>
         <h3>"I go to UCD" (he does not)</h3>
