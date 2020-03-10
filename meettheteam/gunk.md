@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet The Team
+title: Gunk
 permalink: /meettheteam/gunk
 ---
 <html>
