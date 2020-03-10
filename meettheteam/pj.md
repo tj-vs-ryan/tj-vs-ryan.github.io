@@ -1,5 +1,9 @@
+---
+layout: page
+title: PJ
+permalink: /meettheteam/pj
+---
 <html>
-        <h1>PJ</h1>
         <h3>"I'm going to knock these bins over"</h3>
         <table id="tables">
             <tr><th>Likes: </th><td>Males and females</td></tr>
