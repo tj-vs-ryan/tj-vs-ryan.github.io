@@ -1,3 +1,8 @@
+---
+layout: page
+title: Big J Ryan
+permalink: /meettheteam/bigjryan
+---
 <html>
         <h3>"Hey Mike, the password to TJ vs Ryan is 'bertibertiberti'! Enjoy!"</h3>
         <table id="tables">
