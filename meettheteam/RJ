@@ -1,0 +1,18 @@
+<html>
+        <h1>RJ</h1>
+        <h3>"Burga and choclat"</h3>
+        <table>
+            <tr>
+              <th>Likes</th>
+              <th>Dislikes</th>
+              <th>Strengths</th>
+              <th>Weaknesses</th>
+            </tr>
+            <tr>
+              <th>Tesco Lager</th>
+              <th>Tony</th>
+              <th>Alcohol</th>
+              <th>Ms O'Callaghan</th>
+            </tr>
+        </table>
+        </html>
