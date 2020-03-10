@@ -255,12 +255,18 @@ table {
     table-layout: fixed;
     margin-bottom: 15px;
     padding: 15px;
+    border: 1px solid black;
 }
 table, td {
     margin: 3px;
  }
+table, tr:nth-child(odd){
+    background-color: black;
+    color: white;
+}
 table, tr:nth-child(even){
-    background-color: #e6ffff;
+    background-color: white;
+    color: black;
 }
 #clock {
     height: 100%;
