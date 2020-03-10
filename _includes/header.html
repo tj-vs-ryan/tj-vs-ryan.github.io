@@ -7,12 +7,11 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">Where Rugby's Going</a>
     <div style = "font-size:20px" id = "clock">
-    <script>
+    <!--script>
     // Set the date we're counting down to
     var countDownDate = new Date("March 17, 2020 15:00:00").getTime();
     // Update the count down every 1 second
     var x = setInterval(function() {
-    var y = setInterval(function() {
         // Get todays date and time
         var now = new Date().getTime();
     
@@ -34,15 +33,12 @@
             clearInterval(x);
             document.getElementById("clock").innerHTML = "RUGBY'S COMING HOME!!!";
         }
-        if (distance2 < 0) {
-            clearInterval(x);
-            document.getElementById("clock").innerHTML = "RUGBY'S COMING HOME...AGAIN!!!";
-        }
     }, 1000);
-    </script>
+    </script-->
     <script>
       // Set the date we're counting down to
     var countDownDate = new Date("March 17, 2020 15:00:00").getTime();
+    var countDownDate2 = new Date("March 22, 2020 15:00:00").getTime();
     // Update the count down every 1 second
     var x = setInterval(function() {
         // Get todays date and time
@@ -74,6 +70,7 @@
             document.getElementById("clock").innerHTML = "RUGBY'S COMING HOME...AGAIN!!!";
         }
     }, 1000);
+    </script>
     </div>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
