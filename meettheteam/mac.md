@@ -4,7 +4,6 @@ title: mac
 permalink: /meettheteam/mac
 ---
 <html>
-        <h1>mac</h1>
         <h3>"I love the beer"</h3>
         <table id="tables">
             <tr><th>Dislikes: </th><td>Ginger TYs</td></tr>
