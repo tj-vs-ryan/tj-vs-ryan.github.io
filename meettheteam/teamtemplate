@@ -1,0 +1,17 @@
+<html>
+  <h1></h1>
+  <table>
+    <tr>
+      <th>Likes</th>
+      <th>Dislikes</th>
+      <th>Strengths</th>
+      <th>Weaknesses</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </table>
+</html>
