@@ -4,7 +4,6 @@ title: Stopes
 permalink: /meettheteam/stopes
 ---
 <html>
-        <h1>Stopes</h1>
         <h3>"Make me a <em>Meet the Team</em> PLEASE"</h3>
         <table id="tables">
             <tr><th>Likes: </th><td>School</td></tr>
