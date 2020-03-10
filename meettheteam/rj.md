@@ -1,5 +1,9 @@
+---
+layout: page
+title: RJ
+permalink: /meettheteam/rj
+---
 <html>
-        <h1>RJ</h1>
         <h3>"Burga and choclat"</h3>
         <table id="tables">
             <tr><th>Likes: </th><td>Tesco Lager</td></tr>
