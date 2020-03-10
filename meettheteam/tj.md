@@ -1,5 +1,9 @@
+---
+layout: page
+title: TJ
+permalink: /meettheteam/tj
+---
 <html>
-        <h1>TJ</h1>
         <h3>"I'd give Lizzo a go"</h3>
         <table id="tables">
             <tr><th>Likes: </th><td>Regrowing his virginity</td></tr>
