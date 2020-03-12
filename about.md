@@ -12,9 +12,9 @@ permalink: /meettheteam/
     <li><a href="/meettheteam/tj.html">TJ</a></li>
     <li><a href="/meettheteam/rj.html">RJ</a></li>
     <li><a href="/meettheteam/pj.html">PJ</a></li>
-    <li><a href="/meettheteam/seanie.md">Seanie</a></li>
+    <li><a href="/meettheteam/seanie.html">Seanie</a></li>
     <li><a href="/meettheteam/jiggins.html">Jiggins</a></li>
-    <li><a href="/meettheteam/bigjryan.md">Big J Ryan</a></li>
+    <li><a href="/meettheteam/bigjryan.html">Big J Ryan</a></li>
     <li><a href="/meettheteam/ned.html">Ned</a></li>
   </ul>
 </body>
